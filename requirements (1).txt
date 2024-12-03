@@ -1,0 +1,11 @@
+pyrogram
+telebot
+backend
+TgCrypto
+Flask
+gunicorn
+requests
+sqlite3
+threading
+asyncio
+backend
